@@ -40,3 +40,9 @@ remote ssh
 sourcery
 copilot
 ```
+
+### others
+```
+dot env
+```
+
