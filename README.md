@@ -32,7 +32,7 @@ python
 
 ### work on vps
 ```
-remote desktop
+remote ssh
 ```
 
 ### AI suggest code
