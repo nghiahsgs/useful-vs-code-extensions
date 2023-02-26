@@ -1,36 +1,41 @@
 # useful-vs-code-extensions
 useful vs code extensions
 
+## Theme
+```
+Atom
+```
 
-Docker
+### Docker
 ```
 docker
+yaml
 ```
 
-Git
+### Git
 ```
 git history
 git lens
 git graph
 ```
 
-Database
+### Database
 ```
 mongo db for vs code
 ```
 
-Debug
+### Debug
 ```
 php debug
 python
 ```
 
-work on vps
+### work on vps
 ```
 remote desktop
 ```
 
-AI suggest code
+### AI suggest code
 ```
 sourcery
 copilot
