@@ -43,6 +43,6 @@ copilot
 
 ### others
 ```
-dot env
+dotEnv
 ```
 
