@@ -51,3 +51,9 @@ dotEnv
 ```
 xdebug
 ```
+
+
+### PDF
+```
+VsCode PDF
+```
