@@ -46,3 +46,8 @@ copilot
 dotEnv
 ```
 
+
+### PHP
+```
+xdebug
+```
