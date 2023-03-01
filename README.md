@@ -22,7 +22,8 @@ git graph
 ### Database
 ```
 mongo db for vs code
-postgres for vs code (PostgreSQL Management Tool)
+postgres (trial: Weijan Chen)
+SQLTools PostgreSQL/Cockroach Driver (Matheus Teixeira)
 ```
 
 ### Debug
