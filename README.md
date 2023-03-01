@@ -24,6 +24,7 @@ git graph
 mongo db for vs code
 postgres (trial: Weijan Chen)
 SQLTools PostgreSQL/Cockroach Driver (Matheus Teixeira)
+SQLTools MySQL/MariaDB (Matheus Teixeira)
 ```
 
 ### Debug
