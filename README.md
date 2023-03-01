@@ -22,6 +22,7 @@ git graph
 ### Database
 ```
 mongo db for vs code
+postgres for vs code
 ```
 
 ### Debug
